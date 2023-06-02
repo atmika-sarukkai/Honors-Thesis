@@ -4,3 +4,14 @@ numpy
 matplotlib
 IPython
 scipy
+nltk
+os
+json
+seaborn
+tweepy
+textblob
+datetime
+time
+string
+sklearn
+gensim
